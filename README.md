@@ -15,7 +15,9 @@ Este é um projeto simples que inclui uma função em JavaScript para calcular o
    cd desafio
 
 3. **Execute o arquivo index.html**
+
    Clique duas vezes sobre o arquivo.
 
-4. **Testar**
+5. **Testar**
+
    Insira o número no campo informado e clique no botão calcular.
